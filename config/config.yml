@@ -1,0 +1,4 @@
+server:
+  Mode: Development
+logger:
+  Encoding: console
